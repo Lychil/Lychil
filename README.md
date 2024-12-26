@@ -17,6 +17,7 @@
 ###
 
 ###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 <div align="left">
@@ -38,9 +39,8 @@
 
 <h3 align="left">Контакты:</h3>
 <ul>
-  <li>Telegram: @IntInput (<a href="https://t.me/IntInput">ссылка</a>)</li>
+  <li>Telegram: <a href="https://t.me/IntInput">@IntInput</a></li>
   <li>Почта: shavrovya@gmail.com</li>
 </ul>
 
 ###
-
