@@ -40,7 +40,7 @@
 <h3 align="left">Контакты:</h3>
 <ul>
   <li>Telegram: <a href="https://t.me/IntInput">@IntInput</a></li>
-  <li>Почта: shavrovya@gmail.com</li>
+  <li>Почта: <a href="mailto:shavrovya@gmail.com">shavrovya@gmail.com</a></li>
 </ul>
 
 ###
