@@ -38,9 +38,14 @@
 ###
 
 <h3 align="left">Контакты:</h3>
-<ul>
-  <li>Telegram: <a href="https://t.me/IntInput">@IntInput</a></li>
-  <li>Почта: <a href="mailto:shavrovya@gmail.com">shavrovya@gmail.com</a></li>
-</ul>
+<div>
+  <a href="https://t.me/IntInput" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:shavrovya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
 
 ###
