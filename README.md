@@ -1,15 +1,15 @@
-<h1 align="center">Привет👋 Меня зовут Ярослав!</h1>
+<h1 align="center">Nothing special, just me</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">About me :)</h3>
 
-🔗 [Резюме](https://github.com/Lychil/cv-resume/blob/main/README.md)
+🔗 [Resume](https://github.com/Lychil/cv-resume/blob/main/README.md)
 ###
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40px" alt="javascript logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Контакты:</h3>
+<h3 align="left">Contacts</h3>
 <div>
   <a href="https://t.me/IntInput" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
